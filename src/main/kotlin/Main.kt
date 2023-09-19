@@ -8,7 +8,7 @@ fun main(args: Array<String>) {
 
     val autor : Pessoa = Autor("Niel Gaiman",23,simpleDateFormat.parse("15/05/2000"))
 
-    println(autor)
+    
 
 
 }
